@@ -2,6 +2,8 @@
 
 ## SPA Client TODO
 ### Develop the Shell
+The shell is the master controller of the SPA. It is the main 'frame' of our App.
+Responsible for rendering, managing, and coordinating feature modules
 - [ ] Describe the Shell Module
 - [ ] Structure files and namespaces
 - [ ] Create and Style feature containers
